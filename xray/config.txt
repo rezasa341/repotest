@@ -16,3 +16,4 @@ vless://b4fee767-34eb-5a11-fef7-fe66e57f2df8@farmone3.online:443?sni=farmone3.on
 vless://c4a2c2e4-1401-f7a3-ea88-4fa6d55499e9@newstwo5.online:443?sni=newstwo5.online&security=tls&type=ws&path=/ysniws&host=newstwo5.online#newstwo5.online_c4a2c2e4-1401-f7a3-ea88-4fa6d55499e9
 vless://a6b2c6de-2fd0-c168-a8bd-b8c5b4634eb8@goodfamily14.site:443?sni=goodfamily14.site&security=tls&type=ws&path=/auicws&host=goodfamily14.site#goodfamily14.site_a6b2c6de-2fd0-c168-a8bd-b8c5b4634eb8
 vmess://ewogICAgImFkZCI6ICIxMzkuMTQ0LjExMC4xMzMiLAogICAgImFpZCI6ICIwIiwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZTViMTkxMjUtZmMxZi00Y2VjLWY1ZmItNzg5ZDU4ODFmMTBkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6ICI0NDMiLAogICAgInBzIjogIiIsCiAgICAic2N5IjogImF1dG8iLAogICAgInNuaSI6ICIiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAibm9uZSIsCiAgICAidiI6ICIyIgp9Cg==
+vless://727fb575-221f-4dd2-f53e-f648600c7bfa@ir.amironetwork.ml:443?sni=ir.amironetwork.ml&security=tls&type=ws&path=/30768#AmiroNetwork
