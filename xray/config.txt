@@ -1,1 +1,2 @@
-vless://aa910795-14a9-5051-828b-33aafb8d52b0@49.12.13.36:5231?sni=gm.safetools.tk&security=tls&type=tcp#vless-tcp-xtls
+vless://98ac166c-4f68-4748-ff27-0dbe8341b2c1@91.107.137.119:2053?sni=gmc.safetools.tk&security=tls&type=ws&path=/&host=mci.ir#vless-ws-tls
+vless://98ac166c-4f68-4748-ff27-0dbe8341b2c1@91.107.137.119:2053?sni=gmc.safetools.tk&security=tls&type=ws&path=/&host=gmc.safetools.tk#vless-ws-tls
