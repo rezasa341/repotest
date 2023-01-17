@@ -1,2 +1,4 @@
 vless://98ac166c-4f68-4748-ff27-0dbe8341b2c1@91.107.137.119:2053?sni=gmc.safetools.tk&security=tls&type=ws&path=/&host=mci.ir#vless-ws-tls
 vless://98ac166c-4f68-4748-ff27-0dbe8341b2c1@91.107.137.119:2053?sni=gmc.safetools.tk&security=tls&type=ws&path=/&host=gmc.safetools.tk#vless-ws-tls
+vless://00ac975f-a9a1-4b83-e355-dfaf4d83137f@91.107.137.119:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=http&type=tcp&sni=gmc.safetools.tk#vless-tcp-http-tls
+vless://bf660b09-f59d-4b6d-a5fa-254a76564d5f@91.107.137.119:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=gmc.safetools.tk#vless-grpc
