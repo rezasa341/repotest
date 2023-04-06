@@ -3,7 +3,4 @@ vless://fe3e27c2-f708-4b7a-b7f3-76c5ffdcf95b@irvless7.forsarinna.site:443?encryp
 vless://fe3e27c2-f708-4b7a-b7f3-76c5ffdcf95b@irvless1.forsarinna.site:443?encryption=none&security=tls&sni=irl.forsarinna.site&type=ws&host=irl.forsarinna.site&path=%2F#IRVLESS-Turbo50
 vless://fe3e27c2-f708-4b7a-b7f3-76c5ffdcf95b@irvless2.forsarinna.site:443?encryption=none&security=tls&sni=irl.forsarinna.site&type=ws&host=irl.forsarinna.site&path=%2F#IRVLESS-Turbo51
 vless://fe3e27c2-f708-4b7a-b7f3-76c5ffdcf95b@irvless3.forsarinna.site:443?encryption=none&security=tls&sni=irl.forsarinna.site&type=ws&host=irl.forsarinna.site&path=%2F#IRVLESS-Turbo52
-vless://9fe6bb76-e51f-4415-9352-4412014633e7@mtnx.rasekhmould.com:443?encryption=none&security=tls&sni=ssl.rasekhmould.com&type=ws&host=ssl.rasekhmould.com&path=%2F#IRVLESS-Turbo42-MTN
-vless://9fe6bb76-e51f-4415-9352-4412014633e7@mcix.rasekhmould.com:443?encryption=none&security=tls&sni=ssl.rasekhmould.com&type=ws&host=ssl.rasekhmould.com&path=%2F#IRVLESS-Turbo42-MCI
-vless://9fe6bb76-e51f-4415-9352-4412014633e7@45.85.119.65:443?encryption=none&security=tls&sni=ssl.rasekhmould.com&type=ws&host=ssl.rasekhmould.com&path=%2F#IRVLESS-Turbo41-MTN
-vless://9fe6bb76-e51f-4415-9352-4412014633e7@45.85.118.175:443?encryption=none&security=tls&sni=ssl.rasekhmould.com&type=ws&host=ssl.rasekhmould.com&path=%2F#IRVLESS-Turbo41-MCI
+
