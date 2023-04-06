@@ -1,5 +1,6 @@
 vless://fe3e27c2-f708-4b7a-b7f3-76c5ffdcf95b@irvless8.forsarinna.site:443?encryption=none&security=tls&sni=irl.forsarinna.site&type=ws&host=irl.forsarinna.site&path=%2F#IRVLESS-Turbo57
 vless://fe3e27c2-f708-4b7a-b7f3-76c5ffdcf95b@irvless7.forsarinna.site:443?encryption=none&security=tls&sni=irl.forsarinna.site&type=ws&host=irl.forsarinna.site&path=%2F#IRVLESS-Turbo56
+vless://fe3e27c2-f708-4b7a-b7f3-76c5ffdcf95b@irvless6.forsarinna.site:443?encryption=none&security=tls&sni=irl.forsarinna.site&type=ws&host=irl.forsarinna.site&path=%2F#IRVLESS-Turbo55
 vless://fe3e27c2-f708-4b7a-b7f3-76c5ffdcf95b@irvless1.forsarinna.site:443?encryption=none&security=tls&sni=irl.forsarinna.site&type=ws&host=irl.forsarinna.site&path=%2F#IRVLESS-Turbo50
 vless://fe3e27c2-f708-4b7a-b7f3-76c5ffdcf95b@irvless2.forsarinna.site:443?encryption=none&security=tls&sni=irl.forsarinna.site&type=ws&host=irl.forsarinna.site&path=%2F#IRVLESS-Turbo51
 vless://fe3e27c2-f708-4b7a-b7f3-76c5ffdcf95b@irvless3.forsarinna.site:443?encryption=none&security=tls&sni=irl.forsarinna.site&type=ws&host=irl.forsarinna.site&path=%2F#IRVLESS-Turbo52
