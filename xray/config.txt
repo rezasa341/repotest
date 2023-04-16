@@ -59,3 +59,15 @@ vless://89627e29-3c50-4e8c-9a89-5d00ea33e000@irvless13.forsarinna.site:443?encry
 vless://89627e29-3c50-4e8c-9a89-5d00ea33e000@irvless14.forsarinna.site:443?encryption=none&security=tls&sni=ir.forsarinna.site&type=ws&host=ir.forsarinna.site&path=%2F#IRVLESS-Turbo104
 
 vless://89627e29-3c50-4e8c-9a89-5d00ea33e000@irvless15.forsarinna.site:443?encryption=none&security=tls&sni=ir.forsarinna.site&type=ws&host=ir.forsarinna.site&path=%2F#IRVLESS-Turbo105
+
+vless://89627e29-3c50-4e8c-9a89-5d00ea33e000@irvless40.forsarinna.site:80?encryption=none&security=none&type=ws&host=iraneman.forsarinna.site&path=%2F#IRVLESS-Turbo106
+
+vless://89627e29-3c50-4e8c-9a89-5d00ea33e000@irvless41.forsarinna.site:443?encryption=none&security=tls&sni=iraneman.forsarinna.site&type=ws&host=iraneman.forsarinna.site&path=%2F#IRVLESS-Turbo107
+
+vless://89627e29-3c50-4e8c-9a89-5d00ea33e000@irvless42.forsarinna.site:80?encryption=none&security=none&type=ws&host=iraneman.forsarinna.site&path=%2F#IRVLESS-Turbo108
+
+vless://89627e29-3c50-4e8c-9a89-5d00ea33e000@irvless43.forsarinna.site:443?encryption=none&security=tls&sni=iraneman.forsarinna.site&type=ws&host=iraneman.forsarinna.site&path=%2F#IRVLESS-Turbo109
+
+vless://89627e29-3c50-4e8c-9a89-5d00ea33e000@irvless44.forsarinna.site:443?encryption=none&security=tls&sni=iraneman.forsarinna.site&type=ws&host=iraneman.forsarinna.site&path=%2F#IRVLESS-Turbo110
+
+vless://89627e29-3c50-4e8c-9a89-5d00ea33e000@irvless45.forsarinna.site:443?encryption=none&security=tls&sni=iraneman.forsarinna.site&type=ws&host=iraneman.forsarinna.site&path=%2F#IRVLESS-Turbo111
